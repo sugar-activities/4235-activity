@@ -1,0 +1,8 @@
+[Activity]
+name = Breakout
+activity_version = 80601
+host_version = 1
+bundle_id = de.hpi.swa.Breakout
+icon = Breakout-icon
+exec = Breakout.sh
+show_launcher = yes
